@@ -1,5 +1,4 @@
 # Image Forgery Detection Using Error Level Analysis (ELA)
-
 This project focuses on detecting image forgeries using Error Level Analysis (ELA) combined with machine learning models. The primary goal is to identify whether an image has been altered or manipulated by analyzing the error levels present in compressed versions of the image.
 
 # Dataset
